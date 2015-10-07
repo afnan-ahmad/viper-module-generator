@@ -85,7 +85,7 @@ The implementation scheme returned by this generator is hardly inspired in the e
 ## How to install vipergen ?
 You can install it easily as using the gem. With ruby installed in your OSX execute:
 ```bash
-sudo gem install vipergen-roche
+sudo gem install vipergen-afnan
 ```
 If everything were right, you should have now the vipergem command available in your system console
 
@@ -144,6 +144,7 @@ updated_at: 2014-08-24
 ### Available Templates
 - default by pepimbur
 - testable by wojtysim (includes Spec file templates for Interactor, Presenter and View)
+- MAU by afnan-ahmad (restructued )
 
 ## Resources
 - Redbooth presentation: https://speakerdeck.com/sergigracia/clean-architecture-viper
