@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    vipergen (0.2.4)
+    vipergen-afnan (0.2.7)
       thor
 
 GEM
@@ -46,4 +46,4 @@ DEPENDENCIES
   codeclimate-test-reporter
   rake
   rspec
-  vipergen!
+  vipergen-afnan!
