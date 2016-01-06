@@ -17,5 +17,6 @@
 #import <UIKit/UIKit.h>
 
 @interface VIPERWireFrame : NSObject <VIPERWireFrameProtocol>
+@property (nonatomic, strong) VIPERView *view;
 
 @end

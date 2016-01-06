@@ -16,7 +16,7 @@
 @protocol VIPERLocalDataManagerInputProtocol;
 @protocol VIPERAPIDataManagerInputProtocol;
 
-
+@class VIPERView;
 @class VIPERWireFrame;
 
 @protocol VIPERViewProtocol
@@ -29,6 +29,7 @@
 
 @protocol VIPERWireFrameProtocol
 @required
+@property (nonatomic, strong) VIPERView *view;
 + (void)presentVIPERModuleFrom:(id)fromView;
 /**
  * Add here your methods for communication PRESENTER -> WIREFRAME

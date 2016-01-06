@@ -144,7 +144,7 @@ updated_at: 2014-08-24
 ### Available Templates
 - default by pepimbur
 - testable by wojtysim (includes Spec file templates for Interactor, Presenter and View)
-- MAU by afnan-ahmad (restructued )
+- MAU by afnan-ahmad (restructured default template)
 
 ## Resources
 - Redbooth presentation: https://speakerdeck.com/sergigracia/clean-architecture-viper

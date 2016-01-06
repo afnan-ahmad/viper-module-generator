@@ -28,6 +28,7 @@
     interactor.presenter = presenter;
     interactor.APIDataManager = APIDataManager;
     interactor.localDataManager = localDataManager;
+    wireFrame.view = view;
     
     //TODO: - New view controller presentation (present, push, pop, .. )
 }
