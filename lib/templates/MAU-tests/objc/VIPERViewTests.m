@@ -10,8 +10,6 @@
 #import <OCMock/OCMock.h>
 #import "VIPERView.h"
 #import "VIPERPresenter.h"
-#import "VIPERSlotItem.h"
-#import "VIPERDayItem.h"
 
 @interface VIPERViewTests : XCTestCase
 

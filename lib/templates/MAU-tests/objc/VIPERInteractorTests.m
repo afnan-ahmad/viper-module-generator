@@ -11,7 +11,6 @@
 #import "VIPERInteractor.h"
 #import "VIPERLocalDataManager.h"
 #import "VIPERAPIDataManager.h"
-#import "VIPERDayItem.h"
 
 @interface VIPERInteractorTests : XCTestCase
 
